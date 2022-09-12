@@ -53,6 +53,11 @@
                 "bundleName": "base-theme"
               },
               {
+                "input": "src/themes/menno/styles/theme.scss",
+                "inject": false,
+                "bundleName": "menno-theme"
+              },
+              {
                 "input": "src/themes/custom/styles/theme.scss",
                 "inject": false,
                 "bundleName": "custom-theme"

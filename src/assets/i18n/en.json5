@@ -640,7 +640,7 @@
   "bitstream-request-a-copy.alert.canDownload2": "here",
 
   "bitstream-request-a-copy.header": "Request a copy of the file",
-  
+
   "bitstream-request-a-copy.intro": "Enter the following information to request a copy for the following item: ",
 
   "bitstream-request-a-copy.intro.bitstream.one": "Requesting the following file: ",
@@ -1670,7 +1670,7 @@
 
   "home.title": "Home",
 
-  "home.top-level-communities.head": "Communities in DSpace",
+  "home.top-level-communities.head": "Communities in Repository",
 
   "home.top-level-communities.help": "Select a community to browse its collections.",
 
@@ -2579,7 +2579,7 @@
 
   "menu.section.browse_community_by_title": "By Title",
 
-  "menu.section.browse_global": "All of DSpace",
+  "menu.section.browse_global": "All of Repository",
 
   "menu.section.browse_global_by_author": "By Author",
 
@@ -2820,7 +2820,7 @@
 
 
 
-  "nav.browse.header": "All of DSpace",
+  "nav.browse.header": "All of Repository",
 
   "nav.community-browse.header": "By Community",
 
@@ -2984,7 +2984,7 @@
   "process.detail.create" : "Create similar process",
 
   "process.detail.actions": "Actions",
-  
+
   "process.detail.delete.button": "Delete process",
 
   "process.detail.delete.header": "Delete process",
@@ -3037,7 +3037,7 @@
 
   "process.bulk.delete.success": "{{count}} process(es) have been succesfully deleted",
 
-  
+
 
   "profile.breadcrumbs": "Update Profile",
 
@@ -3604,7 +3604,7 @@
 
   "search.form.search_dspace": "All repository",
 
-  "search.form.scope.all": "All of DSpace",
+  "search.form.scope.all": "All of Repository",
 
 
 
